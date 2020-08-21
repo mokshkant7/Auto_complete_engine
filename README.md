@@ -1,7 +1,11 @@
 # Auto_complete_engine
 
-The .cpp file works directly with the wordlist. (made on mac so change .rtf to .txt for windows and make this change in 
-the program as well if the wordlist is in .rtf)
+The .cpp file works directly with the wordlist(contains thousands of words). You can add more words to the wordlist in case required. 
 
-The base made in Flutter is not linked and doesn't work yet so no need for flutter to implement this.
-Can directly work with the terminal.
+### To Run :
+
+Clone the repository and run the cpp program.
+
+Example:
+
+![Output](https://github.com/mokshkant7/Auto_complete_engine/blob/master/Output.png)
